@@ -1,4 +1,4 @@
-# 
+# Custom Visual Studio Code themes for Mac OS | Free Visual Studio Code themes for PC Windows. Featuring extensions-marketplace and build-tools — optimized for maximum performance on every platform.
 
 
 
